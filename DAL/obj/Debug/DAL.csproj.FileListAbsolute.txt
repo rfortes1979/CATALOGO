@@ -1,0 +1,11 @@
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\DAL.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\DAL.pdb
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\obj\Debug\DAL.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\obj\Debug\DAL.pdb
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\FluentNHibernate.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\Iesi.Collections.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\NHibernate.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\FluentNHibernate.xml
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\Iesi.Collections.xml
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\DAL\bin\Debug\NHibernate.xml

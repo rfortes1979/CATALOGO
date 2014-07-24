@@ -1,0 +1,13 @@
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\Business.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\Business.pdb
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\DAL.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\FluentNHibernate.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\NHibernate.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\Iesi.Collections.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\DAL.pdb
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\FluentNHibernate.xml
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\NHibernate.xml
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\bin\Debug\Iesi.Collections.xml
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\obj\Debug\Business.dll
+c:\users\rodrigo\downloads\documents\visual studio 2010\Projects\POCMVC\Business\obj\Debug\Business.pdb
